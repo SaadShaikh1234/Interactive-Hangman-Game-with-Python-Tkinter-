@@ -3,8 +3,7 @@
 An interactive Hangman 🎮 game developed with Python and Tkinter. Features include:
 
 Single-player mode with word categories and 💡 hints.  
-Multiplayer mode for two players.  
-Multiplayer mode for two players.  
+Multiplayer mode for two players.    
 🏆 Leaderboard to track player scores.  
 Simple menu for navigation and game options.  
 Clean and user-friendly graphical interface.  
