@@ -1,4 +1,4 @@
-# Interactive-Hangman-Game-with-Python-Tkinter-
+# Interactive-Hangman-Game-with-Python-Tkinter
 
 An interactive Hangman 🎮 game developed with Python and Tkinter. Features include:
 
