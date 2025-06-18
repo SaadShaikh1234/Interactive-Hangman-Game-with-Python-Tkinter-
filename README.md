@@ -50,24 +50,23 @@ GAME OVER!
 
 ## 🧠 Example Categories & Hints
 Category	Word	Hint
-Tech	python	Popular programming language
-Sports	cricket	A game played with bat and ball
-Movies	joker	A DC villain got his own movie
-Animals	penguin	A bird that cannot fly
+• **Tech**: `python` – Popular programming language  
+• **Sports**: `cricket` – A game played with bat and ball  
+• **Movies**: `joker` – A DC villain got his own movie  
+• **Animals**: `penguin` – A bird that cannot fly  
 
 ---
 
 ## 🚀 How to Run
-Ensure you have Python 3 installed.
-
-Launch the game from terminal or IDE:
+1. Ensure you have Python 3 installed.
+2. Launch the game from terminal or IDE:
 
 ```bash
 
 python "Hangman-Word guessing game.py"
-Select a mode and start playing!
-
 ```
+3. Select a mode and start playing!
+
 ---
 
 ## 🧠 Learning Objectives
