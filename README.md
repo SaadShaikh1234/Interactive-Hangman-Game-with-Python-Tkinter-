@@ -50,6 +50,7 @@ GAME OVER!
 
 ## 🧠 Example Categories & Hints
 Category	Word	Hint
+
 • **Tech**: `python` – Popular programming language  
 • **Sports**: `cricket` – A game played with bat and ball  
 • **Movies**: `joker` – A DC villain got his own movie  
