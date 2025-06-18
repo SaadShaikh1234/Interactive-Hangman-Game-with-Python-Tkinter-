@@ -93,6 +93,7 @@ Libraries: Tkinter, os, random, messagebox
 
 Alice: 30
 Bob: 10
-Scores are automatically saved and updated after each game session.
 ```
+Scores are automatically saved and updated after each game session.
+
 ---
